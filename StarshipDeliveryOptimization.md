@@ -36,4 +36,6 @@ Without knowledge of all relevant pricing factors, anomalies may appear that the
 ## Planned Data Sources
 
 We plan to search repositories such as Kaggle and investigate whether Starship provides any relevant data on its website. We may also generate synthetic data after learning more about the algorithm governing delivery prices.
+
+## Video Link
 https://youtu.be/KP9nV6aq5xk?si=D3TgKda-ChAOl87Y
