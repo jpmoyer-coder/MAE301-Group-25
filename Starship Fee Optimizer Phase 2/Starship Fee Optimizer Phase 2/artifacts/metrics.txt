@@ -1,3 +1,0 @@
-Starship Delivery Fee Optimization Metrics
-ML MAE: 0.0245
-Baseline MAE: 0.503
