@@ -50,12 +50,7 @@ From the project folder, start the Streamlit interface with:
 python -m streamlit run app.py
 ```
 
-If Python 3.12 is installed at the standard local path on this machine, this command also works in PowerShell:
 
-```powershell
-cd "C:\Users\joemo\OneDrive\Desktop\DeliverySaver Phase 3"
-& C:\Users\joemo\AppData\Local\Programs\Python\Python312\python.exe -m streamlit run app.py
-```
 
 ## Current Approach
 
@@ -68,7 +63,7 @@ cd "C:\Users\joemo\OneDrive\Desktop\DeliverySaver Phase 3"
 
 The repository now also includes a JSON-based optimizer for comparing Uber Eats, DoorDash, and Grubhub prices.
 
-- [optimizer.py](C:/Users/joemo/OneDrive/Desktop/DeliverySaver%20Phase%203/optimizer.py) is a simple terminal entry point
+- `optimizer.py` is a simple terminal entry point
 - `src/optimizer.py` provides reusable functions for:
   - total cost calculation
   - cheapest option lookup
