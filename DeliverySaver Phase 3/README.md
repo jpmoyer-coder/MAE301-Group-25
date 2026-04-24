@@ -42,6 +42,21 @@ python train_model.py
 streamlit run app.py
 ```
 
+## Run The UI
+
+From the project folder, start the Streamlit interface with:
+
+```bash
+python -m streamlit run app.py
+```
+
+If Python 3.12 is installed at the standard local path on this machine, this command also works in PowerShell:
+
+```powershell
+cd "C:\Users\joemo\OneDrive\Desktop\DeliverySaver Phase 3"
+& C:\Users\joemo\AppData\Local\Programs\Python\Python312\python.exe -m streamlit run app.py
+```
+
 ## Current Approach
 
 - Baseline model: historical average delivery fee by restaurant, day, and hour
